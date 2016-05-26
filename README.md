@@ -21,10 +21,14 @@ It is to achieve a free and collaborative internet. Where you can preserve the i
 
 Required
 --------
-PHP 5.3
+PHP 5.3 or PHP 7
 
 Optional
 --------
-- MySQL 5 extension
-- SQLite 3 extension
-- cURL 7.10.5 extension or Wget or Aria2 1.2
+- MySQL 5 or SQLite 3 extension
+- cURL 7 extension or Aria2 1.2 or Wget binary
+
+
+
+This website lists latest working free premium link generators: 
+[Leech Listing](https://www.leechlisting.com/)
