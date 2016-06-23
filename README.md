@@ -21,15 +21,16 @@ It is to achieve a free and collaborative internet. Where you can preserve the i
 
 Required
 --------
-- PHP 5.3 or PHP 7
+- PHP 5.3.3 or PHP 7
 - mbstring extension
 - OpenSSL extension
 
 Optional
 --------
-- MySQL 5 or SQLite 3 extension
+- MySQL 5.1 or MariaDB 5.1 or SQLite 3 extension
 - cURL 7 extension or Aria2 1.2 or Wget binary
 - Bz2 extension
+- File Info (fileinfo) extension
 - GMP extension
 
 
